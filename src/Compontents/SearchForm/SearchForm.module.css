@@ -1,0 +1,16 @@
+.Form {
+  text-align: center;
+  color: #f3ffbd;
+}
+
+.Form input {
+  font-size: 1.25em;
+  padding: 1em;
+  border: none;
+  background-color: #b2dbbf;
+}
+
+::placeholder {
+  color: rgba(243, 255, 189, 1);
+  opacity: 0.75;
+}

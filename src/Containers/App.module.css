@@ -1,0 +1,11 @@
+.app {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.warning {
+  text-align: center;
+  font-size: 2em;
+  padding: 2em;
+}
