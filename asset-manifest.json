@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_git_pages/static/css/main.a1bd0fe5.chunk.css",
+    "main.js": "/react_git_pages/static/js/main.6fd225b5.chunk.js",
+    "main.js.map": "/react_git_pages/static/js/main.6fd225b5.chunk.js.map",
+    "runtime-main.js": "/react_git_pages/static/js/runtime-main.e37419c8.js",
+    "runtime-main.js.map": "/react_git_pages/static/js/runtime-main.e37419c8.js.map",
+    "static/js/2.49e96494.chunk.js": "/react_git_pages/static/js/2.49e96494.chunk.js",
+    "static/js/2.49e96494.chunk.js.map": "/react_git_pages/static/js/2.49e96494.chunk.js.map",
+    "index.html": "/react_git_pages/index.html",
+    "precache-manifest.273bfc727a66d5cfb83d4df6a48008aa.js": "/react_git_pages/precache-manifest.273bfc727a66d5cfb83d4df6a48008aa.js",
+    "service-worker.js": "/react_git_pages/service-worker.js",
+    "static/css/main.a1bd0fe5.chunk.css.map": "/react_git_pages/static/css/main.a1bd0fe5.chunk.css.map",
+    "static/js/2.49e96494.chunk.js.LICENSE": "/react_git_pages/static/js/2.49e96494.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e37419c8.js",
+    "static/js/2.49e96494.chunk.js",
+    "static/css/main.a1bd0fe5.chunk.css",
+    "static/js/main.6fd225b5.chunk.js"
+  ]
+}
